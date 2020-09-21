@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v1/generate_badge?boj=karasuta)](https://solved.ac/karasuta)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=karasuta)](https://solved.ac/karasuta)
 <!--
 **karasuta/karasuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
